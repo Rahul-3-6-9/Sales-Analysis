@@ -11,7 +11,7 @@ Source: Kaggle - Superstore Dataset
 File Used: Sample - Superstore.csv
 
 ## Tools & Technologies
-Tools: Python, SQL, Excel, Power BI	
+Tools: Python, MySQL, Excel, Power BI	
 
 ## Project Workflow
 Data Cleaning → Exploratory Data Analysis (EDA) → MySQL Loading → SQL Querying → Power BI Visualization → Insights & Recommendations
