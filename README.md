@@ -4,7 +4,7 @@
 Sales and Profit Optimization for Superstore: Identifying High-Impact Areas to Maximize Profitability
 
 ## Description
-This project analyzes the Superstore dataset to uncover key trends, identify profit drivers and leaks, and deliver actionable insights to optimize business performance.
+This project analyzes sales performance, customer behavior, and regional profitability trends from the Superstore dataset in order to identify key factors driving profit and loss. The goal is to deliver actionable insights to help the business improve marketing, inventory, and shipping strategies.
 
 ## Dataset
 Source: Kaggle - Superstore Dataset
@@ -14,7 +14,7 @@ File Used: Sample - Superstore.csv
 Tools: Python, MySQL, Excel, Power BI	
 
 ## Project Workflow
-Data Cleaning → Exploratory Data Analysis (EDA) → MySQL Loading → SQL Querying → Power BI Visualization → Insights & Recommendations
+Data Cleaning → Exploratory Data Analysis (EDA) → SQL Querying → Power BI Visualization → Insights & Recommendations
 
 ## Key Questions Answered
 ### Sales Trends
