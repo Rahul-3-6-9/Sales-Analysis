@@ -7,7 +7,7 @@ Sales and Profit Optimization for Superstore: Identifying High-Impact Areas to M
 This project analyzes sales performance, customer behavior, and regional profitability trends from the Superstore dataset in order to identify key factors driving profit and loss. The goal is to deliver actionable insights to help the business improve marketing, inventory, and shipping strategies.
 
 ## Dataset
-Source: Kaggle - Superstore Dataset
+Source: Kaggle - Superstore Dataset  
 File Used: Sample - Superstore.csv
 
 ## Tools & Technologies
